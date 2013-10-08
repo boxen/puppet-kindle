@@ -4,6 +4,6 @@
 class kindle {
   package { 'Kindle':
     source    => 'http://kindleformac.amazon.com/40381/KindleForMac.dmg',
-    provider  => 'appdmg'
+    provider  => 'appdmg_eula'
   }
 }
