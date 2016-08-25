@@ -1,17 +1,7 @@
 # Install Kindle Puppet Module for Boxen
 
-Read more than 1 million* Kindle books on your computer with the free Kindle reading app. No Kindle device required. Whispersync technology syncs your last page read, bookmarks, notes, and highlights across various devices. 
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-See http://www.amazon.com/gp/feature.html/ref=kcp_mac_ln_ar?docId=1000464931 for more. 
-
-[![Build Status](https://travis-ci.org/boxen/puppet-kindle.png?branch=master)](https://travis-ci.org/boxen/puppet-kindle)
-
-## Usage
-
-```include kindle```
-
-
-## Development
-
-Write code. Run `script/cibuild` to test it. Check the `script`
-directory for other useful tools.
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
